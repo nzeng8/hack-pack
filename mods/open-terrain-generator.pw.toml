@@ -1,0 +1,13 @@
+name = "Open Terrain Generator (OTG)"
+filename = "OpenTerrainGenerator-1.12.2-v9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e217cda6c84729ced93d20806f0442a884711daf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3151431
+project-id = 265894

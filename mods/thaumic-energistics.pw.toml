@@ -1,0 +1,13 @@
+name = "Thaumic Energistics"
+filename = "thaumicenergistics-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d459a879592061f51293a633707910b1928ad34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2683500
+project-id = 223666

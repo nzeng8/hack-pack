@@ -1,0 +1,13 @@
+name = "Botanic Additions"
+filename = "BotanicAdditions-1.12.2-12.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2u3eevWi/versions/BVOYfDCn/BotanicAdditions-1.12.2-12.2.6.jar"
+hash-format = "sha1"
+hash = "8f1770e8fb050dfdf38e8ee89aaab2e33db7e673"
+
+[update]
+[update.modrinth]
+mod-id = "2u3eevWi"
+version = "BVOYfDCn"

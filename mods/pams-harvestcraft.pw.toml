@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft"
+filename = "Pam's HarvestCraft 1.12.2ze.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb4df84de5f52125d0339b614787222b9ee45442"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2751199
+project-id = 221857

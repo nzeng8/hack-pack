@@ -1,0 +1,13 @@
+name = "Hack Pack"
+author = "nzeng8"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4f13f27529cf8144abdeec3cce0f385bd2ddd68b8d3024e37e82083963b09a13"
+
+[versions]
+forge = "14.23.5.2859"
+minecraft = "1.12.2"

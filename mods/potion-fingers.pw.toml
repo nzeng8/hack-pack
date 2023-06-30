@@ -1,0 +1,13 @@
+name = "Potion Fingers"
+filename = "PotionFingers-r1.0-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e992bd0bd1293ee929ea662a08666bf33ebffdde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2491881
+project-id = 280144

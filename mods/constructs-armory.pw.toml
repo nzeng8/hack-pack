@@ -1,0 +1,13 @@
+name = "Construct's Armory"
+filename = "conarm-1.12.2-1.2.5.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KG34cbXA/versions/7q0icLtb/conarm-1.12.2-1.2.5.10.jar"
+hash-format = "sha1"
+hash = "373e8f6f56605d7eacb5d7d2f4e1ffea5e6d844b"
+
+[update]
+[update.modrinth]
+mod-id = "KG34cbXA"
+version = "7q0icLtb"

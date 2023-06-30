@@ -1,0 +1,13 @@
+name = "Integration Foregoing"
+filename = "IntegrationForegoing-1.12.2-1.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9dc8be515ebd7d20f9da8d6fee6a4790985e31cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2654129
+project-id = 277938

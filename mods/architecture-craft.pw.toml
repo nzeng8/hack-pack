@@ -1,0 +1,13 @@
+name = "Architecture Craft - TridentMC Version"
+filename = "architecturecraft-1.12-3.108.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RcmNTxNI/versions/S2f6u8aW/architecturecraft-1.12-3.108.jar"
+hash-format = "sha1"
+hash = "45a0bff7cdc7d22e7172baeebaf8202c3208bf22"
+
+[update]
+[update.modrinth]
+mod-id = "RcmNTxNI"
+version = "S2f6u8aW"

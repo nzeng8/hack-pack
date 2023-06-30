@@ -1,0 +1,13 @@
+name = "AE2 Unofficial Extended Life"
+filename = "appliedenergistics2-rv6-stable-7-extended_life-v0.55.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f018cf40b054d67eb33a052c264183f7113e16fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4387972
+project-id = 570458
